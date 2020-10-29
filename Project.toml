@@ -1,0 +1,13 @@
+name = "LimitOrderBook"
+uuid = "be3cc33c-eda0-4742-a0a9-26f4f0a0927a"
+authors = ["Anooj Patel <1996anoojpatel@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

@@ -3,6 +3,9 @@ uuid = "be3cc33c-eda0-4742-a0a9-26f4f0a0927a"
 authors = ["Anooj Patel <1996anoojpatel@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+
 [compat]
 julia = "1"
 
